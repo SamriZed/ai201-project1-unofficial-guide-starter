@@ -11,6 +11,7 @@
 
 <!-- What domain did you choose? Why is this knowledge valuable and hard to find through official channels? -->
 
+This domain collects information about class-specific student communities, study groups, and course-related discussion spaces at universities across the United States. Students often struggle to find peers enrolled in the same courses because information about Discord servers, GroupMe chats, study groups, and academic communities is spread across multiple platforms and hidden within university-specific forums. An unofficial guide for this domain would help students locate relevant communities by university, course, subject, and professor.
 ---
 
 ## Documents
@@ -20,16 +21,16 @@
 
 | # | Source | Description | URL or location |
 |---|--------|-------------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| 1 | TopUniversities| 7 Types of US College Student Organization| https://www.topuniversities.com/blog/7-types-us-college-student-organization|
+| 2 | Reddit | How to find study groups | https://www.reddit.com/r/college/comments/r53cbz/how_to_find_study_group/|
+| 3 | UCLA |Student Organization |https://sa.ucla.edu/RCO/public/search?q=club |
+| 4 | University of St. Thomas| Organization | https://tommielink.stthomas.edu/organizations|
+| 5 | Centre Multi| Chemical Engineering at UST | https://www.centremulti.qc.ca/qc-news/chemical-engineering-at-ust-reddit-insights-and-discussions-1767647678 |
+| 6 | University of Rochester| Collaborative Learning|https://www.rochester.edu/college/learningcenter/collaborative/study-groups.html |
+| 7 | GitHub| Computer Science Crew | https://github.com/uvmcscrew |
+| 8 | UVM Academic success centers | Student groups UVM| https://success.umn.edu/studygroups |
+| 9 | University of Michigan-Dearborn | Professional student organizations | https://umdearborn.edu/cob/life-cob/professional-student-organizations|
+| 10 | Texas A&M University | Course Descriptions | https://catalog.tamu.edu/undergraduate/course-descriptions/|
 
 ---
 
