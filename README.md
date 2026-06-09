@@ -15,6 +15,7 @@
      course descriptions don't reflect teaching style, exam difficulty, or workload." -->
 
 This knowledge is valuable because students need to quickly find classmates and study groups for specific courses to succeed academically, especially in difficult or fast-paced classes. It’s hard to find through official channels because universities only provide enrollment lists, course catalogs, and formal club directories—not real-time, course-specific communities like Discords, GroupMe chats, or informal study groups created by students.
+
 ---
 
 ## Document Sources
