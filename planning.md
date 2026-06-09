@@ -81,11 +81,11 @@ If cost were not a constraint, I would consider larger embedding models with hig
 
 | # | Question | Expected answer |
 |---|----------|-----------------|
-| 1 | What are the best study groups for Computer Science students at UVM? | The Computer Science Crew and other student organizations |
+| 1 | What are the best study groups for Computer Science students at University of Minnesota? | The Computer Science Crew and other student organizations |
 | 2 | Which clubs at University of St. Thomas supports Computer Science students? | The Computer Science Club, colorStack |
 | 3 | What resources are available for Computer Science students at Texas A&M University? | Course descriptions, study groups, and academic support centers |
 | 4 | Does the University of St. Thomas provide ways for students to connect through academic organizations? | Yes. Students can use TommieLink to find registered student organizations, including academic and professional groups related to their fields of study.|
-| 5 | Are there class specific study groups for Computer Science at UVM? | Yes, there are several class-specific study groups available through the Computer Science Crew and other student organizations |
+| 5 | Are there class specific study groups for Computer Science at University of Minnesota? | Yes, there are several class-specific study groups available through the Computer Science Crew and other student organizations |
 
 ---
 
